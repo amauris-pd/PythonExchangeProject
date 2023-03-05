@@ -1,0 +1,5 @@
+Do you have a dog?
+Do you have a cat?
+Where do you live?
+How many pets do you have?
+Are you feeling good?
